@@ -13,6 +13,6 @@
 ## 联系方式
 
 - GitHub: [xionghuyi](https://github.com/xionghuyi)
-- Email: [你的邮箱地址]
+- Email: 8888.xhy@gmail.com
 
 感谢你的关注和支持！
